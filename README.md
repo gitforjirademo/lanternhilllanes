@@ -3,4 +3,4 @@
 # Making another branch changed
 # Making a change here
 # Testing Smart Git
-# Testing Dev Info - PR status updates
+# Testing Dev Info - PR status updated
